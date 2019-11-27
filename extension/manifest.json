@@ -1,0 +1,11 @@
+{
+  "name": "IsThisTweetReal",
+  "version": "1.0",
+  "description": "chrome extension to detect screenshots of modified/doctored/fake tweets",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
