@@ -1,5 +1,6 @@
 # IsThisTweetReal
 chrome extension to detect screenshots of modified/doctored/fake tweets
+https://zonksec.com/blog/chrome-extension-to-detect-fake-tweets/
 
 to use:
 1. clone source
